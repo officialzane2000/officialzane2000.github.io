@@ -1,27 +1,16 @@
 ---
-layout: home
----  
+layout: default
+title: zane 2000
+---
+<font face = "Avenir" size = "20">
+<h3>zane 2000</h3></font>
 
-
-## ZANE 2000
-
-
-
-
-### Bio
-Zane 2000, a Otautahi born and raised musician, has been experimenting with synthesizers since the age of 15.
-
-### Music
-[Bandcamp](https://officalzane2000.bandcamp.com/)
-[Soundcloud](https://soundcloud.com/zane2000)
-[Spotify](https://open.spotify.com/artist/1cHufTI1vd3PEqJOZ0aAHk)
-
-### Social Media
-[Instagram](https://www.instagram.com/official_zane_2000/)
-[Facebook](https://www.facebook.com/2an32000)
-
-### Contact
-Email and social media direct message
-
+<img src="zane-banner.png" alt="microbes" width="680" height="200">
+<font face = "Avenir"><p style="color:#848484;font-size:13px;">
+<div class="blurb">
+Born and raised in Otautahi, Zane 2000, has been experimenting with synthesizers since the age of 15. 
+<a href="/about">Read more about me here...</a>
+</font></p></div><!-- /.blurb -->
+<br>
 
 
