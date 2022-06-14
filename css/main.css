@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     color: #000000;
+    background: #FFFFFF;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -27,7 +28,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #FFFFFF;
+    color: #000000;
 }
 footer {
     border-top: 1px solid #001BFE;
